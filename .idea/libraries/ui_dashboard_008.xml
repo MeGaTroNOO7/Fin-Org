@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="ui-dashboard-008">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/java-ui-dashboard-008/database project/ui-dashboard-008/mysql-connector-java-5.1.23-bin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/java-ui-dashboard-008/database project/ui-dashboard-008/miglayout-4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/java-ui-dashboard-008/database project/ui-dashboard-008/TimingFramework-0.55.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
